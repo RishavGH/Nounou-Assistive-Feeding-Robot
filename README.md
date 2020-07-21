@@ -5,4 +5,4 @@ The robotic arm uses a joint space inverse dynamics controller for trajectory fo
 while eating with a spoon.
 
 The whole project is detailed in the following pdf:
-[Insert PDF link]
+[Nounou Technical Report](https://drive.google.com/file/d/1aEMuA15bCa9oSyWhJhhrkP9Ui39HUw2Z/view?usp=sharing)
